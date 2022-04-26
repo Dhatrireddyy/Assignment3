@@ -13,8 +13,8 @@ A die is thrown once. Find the probability of getting
 
 def main():
     total = 6  # total number of numbers on dice
-    primes = 3  # total number of prime numbers on dice
-    nos = 3 # number lying between 2 and 6
+    primes = 3  # number of prime numbers on dice
+    nos = 3 # number of numbers between 2 and 6
     odds = 3  # total number of odds on dice
 
     #Output
